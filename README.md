@@ -3,7 +3,8 @@
 
 This project provides an analysis of inventory data, focusing on different categories of products, their availability, demand, and inventory policies. The goal is to manage inventory effectively by analyzing key metrics and implementing appropriate inventory policies.
 
-![Uploading 1709117294410.png…]()
+![sddefault](https://github.com/rbhardwaj2186/Inventory_Planner_using_Excel/assets/143745073/d4ba9f4c-7932-45e6-9bb3-01587c87d4c2)
+
 
 Table of Contents
 
