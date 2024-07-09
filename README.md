@@ -2,6 +2,9 @@
 # Inventory Data Analysis
 
 This project provides an analysis of inventory data, focusing on different categories of products, their availability, demand, and inventory policies. The goal is to manage inventory effectively by analyzing key metrics and implementing appropriate inventory policies.
+
+![Uploading 1709117294410.png…]()
+
 Table of Contents
 
     Inventory Data
